@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# VS Code settings
+.vscode/
+
+# Chrome Extension specific
+_debug/
+_metadata/
